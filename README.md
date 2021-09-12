@@ -16,4 +16,4 @@ $ npm init
 ```
 - In `.env` file you shoud put your own (unique) values: `API key` and `Server prefix`.
     - To get these you have to register a new account on [Mailchimp.com](https://mailchimp.com/)
-### Done! Now you [check it out](https://signup-app.glitch.me) by yourself!
+### Done! Now you can [check it out](https://signup-app.glitch.me) by yourself!
