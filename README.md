@@ -10,9 +10,9 @@
 ```
 $ git clone https://github.com/AlekseiSkripchenko/Sign-up-form
 ```
-- Initialize `Node Package Manager (npm)` using:
+- Install `node_modules` using:
 ```
-$ npm init
+$ npm install
 ```
 - In `.env` file you shoud put your own (unique) values: `API key` and `Server prefix`.
     - To get these you have to register a new account on [Mailchimp.com](https://mailchimp.com/)
